@@ -67,19 +67,19 @@ Version Control:
 
 ## System Architecture
 
-System Flow:
+1.System Flow:
 
-Camera captures live video stream
+2.Camera captures live video stream
 
-Face detection is performed on each frame
+3.Face detection is performed on each frame
 
-Facial landmarks are extracted
+4.Facial landmarks are extracted
 
-Eye regions are identified
+5.Eye regions are identified
 
-EAR is calculated in real time
+6.EAR is calculated in real time
 
-Distraction is detected based on EAR threshold
+7.Distraction is detected based on EAR threshold
 
 Alert is triggered if distraction persists
 ![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
@@ -87,22 +87,31 @@ Alert is triggered if distraction persists
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Focused 
 
 ![FOC](https://github.com/user-attachments/assets/3d76b58a-fe20-4451-a21d-7702a6475284)
 
-#### Output2 - Name of the output
+#### Output2 - Drowsiness Detected
 ![DET](https://github.com/user-attachments/assets/70f43685-4563-4f13-b58f-eb29defa2baf)
 
 Detection Accuracy: 95.8%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 
 ## Results and Impact
 The Distraction Detector effectively identifies inattentive driving behavior with high accuracy and minimal processing delay. The system enhances road safety by providing early warnings to drivers, reducing the likelihood of accidents caused by fatigue or distraction.
 
 By leveraging computer vision and geometric analysis, this project demonstrates a practical and scalable approach for real-time driver monitoring systems. It serves as a foundation for advanced intelligent transportation solutions and can be further extended with yawning detection, head pose estimation, or mobile usage detection.
+
+## Articles published / References
+
+1.T. Soukupová and J. Čech, “Real-Time Eye Blink Detection using Facial Landmarks,” 21st Computer Vision Winter Workshop, 2016.
+
+2.P. Viola and M. Jones, “Rapid Object Detection using a Boosted Cascade of Simple Features,” IEEE CVPR, 2001.
+
+3.N. S. Gupta et al., “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods,” EAI Endorsed Transactions on IoT, vol. 10, Mar. 2024.
+
+4.A. A. Bin Zainuddin, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain,” Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
 
 
