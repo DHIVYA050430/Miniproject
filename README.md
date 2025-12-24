@@ -82,7 +82,8 @@ Version Control:
 7. Distraction is detected based on EAR threshold
 
 Alert is triggered if distraction persists
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![WhatsApp Image 2025-12-24 at 22 59 49](https://github.com/user-attachments/assets/d0ee1f05-b3c7-4683-8638-c747a5d83e84)
+
 
 
 ## Output
