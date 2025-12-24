@@ -81,7 +81,7 @@ Version Control:
 
 7. Distraction is detected based on EAR threshold
 
-Alert is triggered if distraction persists
+
 ![WhatsApp Image 2025-12-24 at 22 59 49](https://github.com/user-attachments/assets/d0ee1f05-b3c7-4683-8638-c747a5d83e84)
 
 
