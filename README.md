@@ -67,19 +67,19 @@ Version Control:
 
 ## System Architecture
 
-1.System Flow:
+1. System Flow:
 
-2.Camera captures live video stream
+2. Camera captures live video stream
 
-3.Face detection is performed on each frame
+3. Face detection is performed on each frame
 
-4.Facial landmarks are extracted
+4. Facial landmarks are extracted
 
-5.Eye regions are identified
+5. Eye regions are identified
 
-6.EAR is calculated in real time
+6. EAR is calculated in real time
 
-7.Distraction is detected based on EAR threshold
+7. Distraction is detected based on EAR threshold
 
 Alert is triggered if distraction persists
 ![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
@@ -105,13 +105,13 @@ By leveraging computer vision and geometric analysis, this project demonstrates 
 
 ## Articles published / References
 
-1.T. Soukupová and J. Čech, “Real-Time Eye Blink Detection using Facial Landmarks,” 21st Computer Vision Winter Workshop, 2016.
+1. T. Soukupová and J. Čech, “Real-Time Eye Blink Detection using Facial Landmarks,” 21st Computer Vision Winter Workshop, 2016.
 
-2.P. Viola and M. Jones, “Rapid Object Detection using a Boosted Cascade of Simple Features,” IEEE CVPR, 2001.
+2. P. Viola and M. Jones, “Rapid Object Detection using a Boosted Cascade of Simple Features,” IEEE CVPR, 2001.
 
-3.N. S. Gupta et al., “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods,” EAI Endorsed Transactions on IoT, vol. 10, Mar. 2024.
+3. N. S. Gupta et al., “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods,” EAI Endorsed Transactions on IoT, vol. 10, Mar. 2024.
 
-4.A. A. Bin Zainuddin, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain,” Data Science Insights, vol. 2, no. 1, Feb. 2024.
+4. A. A. Bin Zainuddin, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain,” Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
 
 
